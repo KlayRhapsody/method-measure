@@ -1,0 +1,6 @@
+@method_measure_HostAddress = http://localhost:5013
+
+GET {{method_measure_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
